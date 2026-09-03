@@ -1,0 +1,6 @@
+{
+    "version":  "2.1.0",
+    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.1.0/AutoStudio-2.1.0.zip",
+    "releasedAt":  "2026-09-03",
+    "notes":  "Flow API 전면 변경 대응 — 이전 판은 이미지 생성이 되지 않습니다. 배포처를 GitHub 으로 옮겼습니다"
+}
