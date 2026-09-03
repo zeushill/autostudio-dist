@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.0",
-    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.2.0/AutoStudio-2.2.0.zip",
+    "version":  "2.2.1",
+    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.2.1/AutoStudio-2.2.1.zip",
     "releasedAt":  "2026-09-03",
-    "notes":  "Flow 옛 주소(labs.google)도 다시 지원 — 405 오류 해결 · 모델 이름 표시 · 기본값 조정"
+    "notes":  "[Flow] 버튼이 labs.google 로 열립니다 (널리 쓰는 주소)"
 }
