@@ -1,6 +1,6 @@
 {
-    "version":  "2.2.1",
-    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.2.1/AutoStudio-2.2.1.zip",
-    "releasedAt":  "2026-09-03",
-    "notes":  "[Flow] 버튼이 labs.google 로 열립니다 (널리 쓰는 주소)"
+    "version":  "2.4.0",
+    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.4.0/AutoStudio-2.4.0.zip",
+    "releasedAt":  "2026-09-06",
+    "notes":  "파일명이 UUID 로 저장되던 것 수정 · 설치 안내를 패널 안에서 보여줍니다"
 }
