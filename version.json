@@ -1,6 +1,6 @@
 {
-    "version":  "2.5.0",
-    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.5.0/AutoStudio-2.5.0.zip",
+    "version":  "2.6.0",
+    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.6.0/AutoStudio-2.6.0.zip",
     "releasedAt":  "2026-09-10",
-    "notes":  "구글 계정을 여러 개 쓸 때 이미지 생성이 400 으로 막히던 것을 고쳤습니다 · 자동 발행 대기"
+    "notes":  "다계정(/u/N/) 이미지 생성 400 수정 · 캐릭터 asset 참조 복구 · Flow 한도 소진 시 모델/계정 자동 전환 · 신비한건축스타일(Flow 동영상) · 자동 발행 대기"
 }
