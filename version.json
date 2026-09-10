@@ -1,6 +1,6 @@
 {
-    "version":  "2.4.0",
-    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.4.0/AutoStudio-2.4.0.zip",
-    "releasedAt":  "2026-09-06",
-    "notes":  "파일명이 UUID 로 저장되던 것 수정 · 설치 안내를 패널 안에서 보여줍니다"
+    "version":  "2.5.0",
+    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.5.0/AutoStudio-2.5.0.zip",
+    "releasedAt":  "2026-09-10",
+    "notes":  "구글 계정을 여러 개 쓸 때 이미지 생성이 400 으로 막히던 것을 고쳤습니다 · 자동 발행 대기"
 }
