@@ -1,6 +1,6 @@
 {
-    "version":  "2.8.0",
-    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.8.0/AutoStudio-2.8.0.zip",
+    "version":  "2.9.0",
+    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.9.0/AutoStudio-2.9.0.zip",
     "releasedAt":  "2026-09-25",
-    "notes":  "동시 생성이 돌아왔습니다 · 프롬프트 넣는 간격을 설정에서 정합니다(기본 10~13초)"
+    "notes":  "봇으로 막히면 5분·30분 쉬었다가 이어 만듭니다 · 동시 처리 기본이 1 로 바뀌었습니다"
 }
