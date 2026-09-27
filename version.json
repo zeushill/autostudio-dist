@@ -1,6 +1,6 @@
 {
-    "version":  "2.9.0",
-    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v2.9.0/AutoStudio-2.9.0.zip",
-    "releasedAt":  "2026-09-25",
-    "notes":  "봇으로 막히면 5분·30분 쉬었다가 이어 만듭니다 · 동시 처리 기본이 1 로 바뀌었습니다"
+    "version":  "3.0.0",
+    "file":  "https://github.com/zeushill/autostudio-dist/releases/download/v3.0.0/AutoStudio-3.0.0.zip",
+    "releasedAt":  "2026-09-27",
+    "notes":  "이미지를 Flow 공식 도구로 최대 5장씩 함께 만듭니다 · 로고 지우기(AI) 복구 · 패널이 굳지 않습니다"
 }
